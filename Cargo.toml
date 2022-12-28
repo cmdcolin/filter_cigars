@@ -1,0 +1,9 @@
+[package]
+name = "filter_cigars"
+version = "0.0.1"
+edition = "2021"
+authors = ["Colin Diesh <colin.diesh@gmail.com>"]
+
+[dependencies]
+bio = "0.31"
+rust-htslib = "0.31"
